@@ -57,7 +57,7 @@ nav{
 
 
 .google-img{
-  width:35%;
+  width:60%;
 }
   
 .search-box{
@@ -72,6 +72,10 @@ nav{
 .search-box input{
   border: none;
   width: 75%;
+}
+
+.search{
+  color: rgb(157, 151, 151);
 }
 
 button{
